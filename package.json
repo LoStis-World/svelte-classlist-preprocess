@@ -19,7 +19,7 @@
       "url": "git+https://github.com/LoStis-World/svelte-classlist-preprocess.git"
     },
     "devDependencies": {
-      
+      "svelte": "^4.0.0"
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
