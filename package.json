@@ -1,0 +1,29 @@
+{
+    "name": "@lostisworld/svelte-classlist-preprocess",
+    "version": "1.0.0",
+    "description": "This is a svelte preprocessor that allows you to use an array inside the class:list pattern in your svelte components",
+    "keywords": [
+      "svelte",
+      "classlist",
+      "preprocess",
+      "svelte-preprocess",
+      "svelte-preprocess-classlist"
+    ],
+    "main": "index.js",
+    "homepage": "https://github.com/LoStis-World/svelte-classlist-preprocess#readme",
+    "bugs": {
+      "url": "https://github.com/LoStis-World/svelte-classlist-preprocess/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/LoStis-World/svelte-classlist-preprocess.git"
+    },
+    "devDependencies": {
+      
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "LoSti's World",
+    "license": "MIT"
+  }
