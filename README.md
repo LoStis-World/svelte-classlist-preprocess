@@ -1,8 +1,5 @@
 # svelte-classlist-preprocess
 
-[![npm version](https://badge.fury.io/js/%40lostisworld%2Fsvelte-classlist-preprocess.svg)](https://badge.fury.io/js/%40lostisworld%2Fsvelte-classlist-preprocess)
-[![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/LoStis-World/svelte-classlist-preprocess/blob/main/LICENSE)
-
 `svelte-classlist-preprocess` is a Svelte preprocessor that allows you to use an array inside the `class:list` pattern in your Svelte components.
 
 ## Installation
