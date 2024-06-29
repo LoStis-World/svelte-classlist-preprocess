@@ -2,6 +2,8 @@
 
 `svelte-classlist-preprocess` is a Svelte preprocessor that allows you to use an array inside the `class:list` pattern in your Svelte components.
 
+_Live Demo_ [Svelte Repl](https://www.sveltelab.dev/52vw803nc69s856?files=.%2Fsrc%2Froutes%2F%2Bpage.svelte)
+
 ![](./images/snippet.png)
 
 ## Installation
